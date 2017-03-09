@@ -1,0 +1,15 @@
+/* You can add global styles to this file, and also import other style files */
+
+.bar {
+  fill: #90c564;
+}
+
+.bar:hover {
+  fill:#3fb4f9;
+}
+
+.axis-title {
+  fill: none;
+  stroke: black;
+  stroke-width: 0.5px;
+}
